@@ -13,6 +13,7 @@ Provide insights to improve future marketing strategies
 
 📂 Dataset
 The dataset contains information about marketing campaigns
+
 Includes features such as:
 Customer demographics (age, income, etc.)
 Campaign type
@@ -56,18 +57,22 @@ Precision & Recall
 Confusion Matrix
 
 📊 Key Insights
+
 Email campaigns showed higher engagement rates
 Younger customers responded more to social media ads
 Campaign success depends on targeting the right audience
 
 📈 Dashboard
+
 Built interactive dashboards using Power BI
 Visualizations include:
+
 Campaign performance by channel
 Customer segmentation
 Conversion rates
 
 🚀 Future Enhancements
+
 Use advanced ML models for prediction
 Implement real-time campaign tracking
 Integrate with live marketing tools
@@ -76,4 +81,4 @@ Improve personalization using AIdashboard
 📌 Conclusion
 
 This project helps businesses understand marketing effectiveness and improve decision-making. 
-Data-driven insights can significantly increase campaign success and customer engagement
+Data-driven insights can significantly increase campaign success and customer engagement.
