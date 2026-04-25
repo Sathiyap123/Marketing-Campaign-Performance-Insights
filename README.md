@@ -1,17 +1,20 @@
 # Marketing-Campaign-Performance-Insights
 📊 Marketing Campaign Performance Insights
+
 📌 Project Overview
 
 This project analyzes marketing campaign data to evaluate performance and generate actionable insights.
 The goal is to understand customer behavior, campaign effectiveness, and optimize marketing strategies for better ROI.
 
 🎯 Objectives
+
 Analyze campaign performance across different channels
 Identify factors influencing customer response
 Measure campaign success using key metrics
 Provide insights to improve future marketing strategies
 
 📂 Dataset
+
 The dataset contains information about marketing campaigns
 
 Includes features such as:
@@ -21,6 +24,7 @@ Channel used (Email, Social Media, etc.)
 Response (Yes/No) → Target Column
 
 ⚙️ Technologies Used
+
 Python
 Pandas
 NumPy
@@ -33,9 +37,11 @@ Power BI (for dashboard visualization)
 🔍 Project Workflow
 
 1️⃣ Data Collection
+
 Import dataset from CSV or database
 
 2️⃣ Data Preprocessing
+
 Handle missing values
 Encode categorical variables
 Normalize numerical features
